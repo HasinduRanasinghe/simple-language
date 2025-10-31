@@ -111,3 +111,13 @@ x + y
 - Functions
 - More data types (strings, arrays)
 - Improved error handling
+
+## Diagrams
+
+### Architecture Diagram
+
+<img width="1341" height="1597" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/eec87165-3031-421e-8a12-961a42481784" />
+
+### Pipeline
+
+<img width="2699" height="1245" alt="Pipeline" src="https://github.com/user-attachments/assets/87b5ff37-9916-4642-bb3e-adf71f3371bc" />
